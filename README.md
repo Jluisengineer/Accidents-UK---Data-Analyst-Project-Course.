@@ -5,4 +5,4 @@ This project is the one carried out during the FinTech Wales Advanced Data Acade
 
 The project is divided into 4 blocks:
 
-**La vida
+**La vida**
