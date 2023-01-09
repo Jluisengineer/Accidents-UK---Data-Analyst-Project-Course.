@@ -9,6 +9,6 @@ The project is divided into 4 parts:
 
 **Part 2:** Obtaining data using Python and SQL. Data wrangling using pandas.
 
-**Part 3:** Data Visualization and Analisys using Rstudio, Excel and Python.
+**Part 3:** Data Visualization and Analisys using Tableau, Rstudio, Excel and Python.
 
 **Part 4:** Outline improvements using Machine Learning. 
